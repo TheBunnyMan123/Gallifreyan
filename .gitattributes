@@ -1,0 +1,7 @@
+text=auto
+*.svg eol=lf
+.gitattributes eol=lf
+.gitignore eol=lf
+LICENSE eol=lf
+
+*.png binary
